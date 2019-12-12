@@ -1,4 +1,4 @@
-import com.zeroten.common.util.CheckUtils;
+package com.zeroten.common.util;
 import org.junit.Assert;
 import org.junit.Test;
 
