@@ -12,7 +12,7 @@
 
     <repositories>
         <repository>
-            <id>82nexus</id>
+            <id>aliyun</id>
             <name>1</name>
             <url>http://maven.aliyun.com/nexus/content/groups/public</url>
         </repository>
@@ -25,5 +25,40 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.8</version>
+        </dependency>
+
+
     </dependencies>
 </project>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

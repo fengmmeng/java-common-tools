@@ -35,5 +35,4 @@ public class CheckUtilsTest {
         Assert.assertFalse(CheckUtils.equals(1,null));
 
     }
-
 }
